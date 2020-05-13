@@ -1,6 +1,6 @@
 ---
 - name: install ntp server
-  apt: 
+  apt:
     name: ['ntpsec']
     state: present
   tags:
