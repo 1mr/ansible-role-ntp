@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/1mr/ansible-role-ntp.svg?branch=master)](https://travis-ci.com/1mr/ansible-role-ntp)
+
 NTP
 ====
 
